@@ -6,3 +6,5 @@ function getComputerChoice() {
     let result = outcomes[randomNumber];
     return result;
 }
+
+function playerSelection()
